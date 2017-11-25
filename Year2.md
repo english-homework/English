@@ -1,6 +1,26 @@
 ## Year 2 English 2017/2018
 ***
 ***
+### (4). Numbers 1-20  
+
+Learn the numbers 1 to 20 / Aprender os números de 1 a 20  
+
+#### 1 to 10 / 1 a 10  
+(1). [![nocc1](/images/nocc1.PNG)]( http://www.abcya.com/kindergarten_counting.htm ) [Count the candles](http://www.abcya.com/kindergarten_counting.htm) / [Conta as velas de aniversário]( http://www.abcya.com/kindergarten_counting.htm)  
+Para cada bolo, responde à pergunta ‘quantos anos tem a menina ou o menino?’. Clica nas velas uma de cada vez para ouvir a contagem em voz alta em inglês. Depois aparece vários números. Escolha o número certo. [![nocc2](/images/nocc2.PNG)]( http://www.abcya.com/kindergarten_counting.htm)  
+(2). [![ssno1](/images/ssno1.PNG)]( http://www.sheppardsoftware.com/preschool/ngames/numbers.htm) [Count the toys]( http://www.sheppardsoftware.com/preschool/ngames/numbers.htm) / [Conta os brinquedos]( http://www.sheppardsoftware.com/preschool/ngames/numbers.htm)  
+1ª parte: Para cada número, ouve e.g. ‘one duck’ (um pato), clica na seta vermelho e responde à pergunta e.g. ‘Which picture has 1 duck?’ (Qual imagem tem 1 pato?) por clicar na imagem certo.  
+2ª parte: Em cada ecrã, conta os brinquedos em voz alta em inglês, escolha o número certo e ouvirás o número em voz alta para verificar a tua contagem. 
+
+#### 1 to 20 / 1 a 20  
+(1). [Balloon pop](http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  [![bapo1](/images/bapo1.PNG)]( http://www.sheppardsoftware.com/mathgames/earlymath/BalloonCount20.htm)  
+Choose the option ‘Count to 20’ / Escolha a opção ‘Count to 20’ (contar até 20) ![bapo2](/images/bapo2.PNG)  
+Count aloud from 1 to 20 in English – pop the balloon for each number immediately after you have said the number and listen to check. / Conta em voz alta de 1 a 20 em inglês – clica no balão de cada número depois de o dizer em voz alta para verificar.  
+
+(2). [!nobi1](/images/nobi1.PNG)]( http://www.abcya.com/number_bingo.htm) [Play number bingo]( http://www.abcya.com/number_bingo.htm) / [Jogar bingo com os números])( http://www.abcya.com/number_bingo.htm)  
+Play 1-10  ![nobi3](/images/nobi3.PNG), then 11-20 ![nobi4](/images/nobi4.PNG).
+
+***
 ### (3). Colours
 
 Play some games to learn the colours/Jogar alguns jogos para aprender as cores: 
